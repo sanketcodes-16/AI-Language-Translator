@@ -170,32 +170,24 @@ This automatically starts
 
 ## Streamlit UI
 
-> Add screenshot here
 
 ```
-images/home.png
-```
+![alt text](screenshots/HP.png)
 
----
+```
 
 ## Translation Result
 
-> Add screenshot here
-
 ```
-images/result.png
+screenshots/TP.png
 ```
-
----
 
 ## Swagger Documentation
 
-> Add screenshot here
-
 ```
-images/swagger.png
+![alt text](screenshots/Swagger1.png)
 ```
-
+![alt text](screenshots/Swagger2.png)
 ---
 
 # 📡 API Endpoint

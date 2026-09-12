@@ -170,23 +170,20 @@ This automatically starts
 
 ## Streamlit UI
 
-
-```
 ![alt text](screenshots/HP.png)
 
-```
+---
 
 ## Translation Result
 
-```
-screenshots/TP.png
-```
+![alt text](screenshots/TP.png)
+
+---
 
 ## Swagger Documentation
 
-```
 ![alt text](screenshots/Swagger1.png)
-```
+
 ![alt text](screenshots/Swagger2.png)
 ---
 
